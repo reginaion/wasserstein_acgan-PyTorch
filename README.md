@@ -1,12 +1,11 @@
 # wasserstein_acgan-PyTorch
 Wasserstein Auxiliary Classifier GAN v1.0 (PyTorch v0.4)
 
-dataset:
+## dataset:
 
 MNIST
 
-
-preprocesses:
+## preprocesses:
 
 $ sudo pip install tensorflow
 
@@ -14,7 +13,10 @@ $ sudo pip install tensorboardX
 
 $ sudo pip install torchsummary
 
-
-GPU:
+## GPU:
 
 Tesla K80 (Colaboratory, Reference: https://stackoverflow.com/questions/47818822/can-i-use-tensorboard-with-google-colab)
+
+## Training:
+
+![image](https://github.com/reginaion/wasserstein_acgan-PyTorch/blob/master/image_data.png)
